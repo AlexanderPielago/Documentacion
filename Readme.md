@@ -29,3 +29,6 @@ He desarrollado:
 Mis experiencia:
 
 -Aunque no tengo experiencia laboral previa en programación, he reforzado mis habilidades mediante proyectos prácticos y autoaprendizaje constante.
+
+Mis hobbies:
+- Jugar Basquet y programar.
